@@ -1,4 +1,4 @@
-defmodule ProteinTranslation do
+defmodule ProteinTranslationWithPatterMatching do
   @doc """
   Given an RNA string, return a list of proteins specified by codons, in order.
   """
